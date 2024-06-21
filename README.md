@@ -8,11 +8,11 @@ The same process is done for the co-authors of the main author. Separate CSVs ar
 The Google Scholar website kept blocking the scraping script when used with BeautifulSoup.
 
 # Folder Structure
- * [selenium.py]
- * [CSVs]
-   * [author1.csv]
-   * [author2.csv]
- * [Downloads]
-   * [paper1.pdf]
-   * [paper2.pdf]
+ * selenium.py
+ * CSVs
+   * author1.csv
+   * author2.csv
+ * Downloads
+   * paper1.pdf
+   * paper2.pdf
 
